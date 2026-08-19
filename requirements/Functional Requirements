@@ -1,14 +1,1 @@
-## Functional Requirements 
-The following functional requirements were identified, based on the answers of the interviews and questionnaires of the proposed Restaurant Ordering System.
-Requirement ID	Functional Requirement	Description
-FR-01	User Registration	The system shall enable all the new customers to register.
-FR-02	User Login	All registered users shall be able to log in safely without any hassles.
-FR-03	Browse Menu	Customers shall have a view of menu items (price and description).
-FR-04	Search Food Items	Customers shall be able to search food by name and/or category.
-FR-05	Add to Cart	Customers shall add/remove items from the cart.
-FR-06	Place Order	Customers shall order food.
-FR-07	Track Order	Customers shall be able to see the status of their orders.
-FR-08	Manage Menu	Admin shall add, edit, remove elements
-FR-09	Update Order Status	Staff shall update order status (Preparing, Ready, Completed).
-FR-10	View Order History	Customers shall be able to see previous orders.
 
