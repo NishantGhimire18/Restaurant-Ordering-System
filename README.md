@@ -1,4 +1,5 @@
 Design
+
 This folder contains the system design and modelling artefacts developed for the Software Engineering project.
 The diagrams in this folder are used to represent the system from different perspectives, including its functional requirements, workflows, interactions, and structural design.
 
